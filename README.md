@@ -7,7 +7,8 @@ Learning Android
 * camera
 * sound recording
 * background running
-* notifications
+* notifications - ongoing
+  * types of notifications
 * popups
 * rest api
 * material UI design
